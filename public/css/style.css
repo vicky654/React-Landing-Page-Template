@@ -70,6 +70,9 @@ hr {
   margin-bottom: 20px;
   border: 0;
 }
+.btn-margin{
+  margin-bottom: 40px !important;
+}
 /* Navigation */
 #menu {
   padding: 15px;
@@ -243,6 +246,18 @@ header .intro-text {
   padding-top: 350px;
   padding-bottom: 200px;
   text-align: center;
+}
+
+
+.intro-text h5 {
+  font-family: "Raleway", sans-serif;
+  color: #fff;
+  font-size: 41px;
+  line-height: 44px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-top: 0;
+  margin-bottom: 10px;
 }
 /* Features Section */
 #features {

@@ -25,9 +25,19 @@ export const Gallery = (props) => {
                       largeImage={d.largeImage}
                       smallImage={d.smallImage}
                     />
+                    <h5> {d.name}</h5>
+                    <h5>{d.price}</h5>
+                    <a
+                  href="#features"
+                  className="btn btn-custom btn-lg page-scroll  btn-margin "
+                >
+                 ADD TO CART
+                </a>{" "}
                   </div>
+                  
                 ))
               : "Loading..."}
+              
           </div>
         </div>
       </div>

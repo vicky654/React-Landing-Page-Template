@@ -1,131 +1,149 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
+    "title": "Transform Your Web Dreams into Reality with The Blackwing Codershop: Where Innovation Meets Imagination",
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "At The Blackwing Codershop, we are committed to staying up-to-date with the latest industry trends and technologies, and we continually invest in our team's professional development to ensure that we deliver cutting-edge solutions to our clients.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Experience and Expertise",
+      "Custom Solutions",
+      "Quality and Attention to Detail",
+      "Dedication to Client Satisfaction "
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Responsive Communication",
+      "Reliable Web Hosting",
+      "Competitive Pricing ",
+      "Focus on User Experience"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "PHP Development",
       "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "smallImage": "img/portfolio/01-small.jpg",
+      "name": "PHP Development",
+      "price": "$99"
     },
     {
-      "title": "Project Title",
+      "title": "WEB Development",
       "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "smallImage": "img/portfolio/02-small.jpg",
+      "name": "WEB Development",
+      "price": "$99"
     },
     {
-      "title": "Project Title",
+      "title":"SOFTWARE Development",
       "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "smallImage": "img/portfolio/03-small.jpg",
+      "name": "SOFTWARE Development",
+      "price": "$99"
     },
     {
-      "title": "Project Title",
+      "title": "APP Development",
       "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "smallImage": "img/portfolio/04-small.jpg",
+      "name": "APP Development",
+      "price": "$99"
     },
     {
-      "title": "Project Title",
+      "title":"LANDING PAGE DESIGN",
       "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "smallImage": "img/portfolio/05-small.jpg",
+      "name": "LANDING PAGE DESIGN",
+      "price": "$99"
     },
     {
-      "title": "Project Title",
+      "title": "DASHBOARD Development",
       "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "smallImage": "img/portfolio/06-small.jpg",
+      "name": "DASHBOARD Development",
+      "price": "$99"
     },
     {
-      "title": "Project Title",
+      "title": "GAMING Development",
       "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "smallImage": "img/portfolio/07-small.jpg",
+      "name": "GAMING Development",
+      "price": "$99"
     },
     {
-      "title": "Project Title",
+      "title":  "WEB Development",
       "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "smallImage": "img/portfolio/08-small.jpg",
+      "name": "WEB Development",
+      "price": "$99"
     },
     {
-      "title": "Project Title",
+      "title": "WEB DESIGNING",
       "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "smallImage": "img/portfolio/09-small.jpg",
+      "name": "WEB DESIGNING",
+      "price": "$99"
     }
   ],
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "PHP Development",
+      "text": "Our team is proficient in PHP development and can create custom solutions tailored to your specific needs. We specialize in PHP frameworks such as Laravel and CodeIgniter, and can develop everything from custom web applications to e-commerce platforms."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Python Development",
+      "text": "We offer Python development services for a variety of applications, including web development, data analysis, and machine learning. Our team is skilled in Python frameworks such as Django and Flask, and can create custom solutions to meet your business needs."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "JavaScript Development",
+      "text": "Our team has extensive experience in JavaScript development, including front-end frameworks such as React and Angular, as well as back-end frameworks such as Node.js. We can create custom web applications and other solutions using JavaScript and related technologies."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
+      "icon": "fa fa-wordpress",
+      "name": "WordPress Website Design",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Mobile App Development",
+      "text": "We offer mobile app development services for iOS and Android platforms, using programming languages such as Swift, Kotlin, and Java. We can create custom mobile apps that are tailored to your specific business needs and objectives."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Ruby on Rails Development",
+      "text": "The Blackwing Codershop offers Ruby on Rails development services for web applications and e-commerce platforms. Our team is skilled in Rails framework and can create custom solutions for your business."
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "Working with The Blackwing Codershop was an excellent experience. Their team was highly professional, knowledgeable, and responsive. They created a custom solution that exceeded our expectations and helped take our business to the next level. We highly recommend their services.",
       "name": "John Doe"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "We were thoroughly impressed with The Blackwing Codershop's expertise and attention to detail. They created a beautiful and functional website that perfectly aligned with our brand identity and business needs. Their team was easy to work with and responsive to our needs throughout the project.",
       "name": "Johnathan Doe"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "The Blackwing Codershop delivered outstanding results for our company. They were able to take our vision and turn it into a reality. Their team was highly skilled in web development and was able to provide valuable insights and recommendations throughout the project. We highly recommend their services.",
       "name": "John Doe"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "We were blown away by The Blackwing Codershop's commitment to excellence and attention to detail. Their team was highly professional and responsive, making the entire project a smooth and seamless experience. They created a custom solution that was not only visually stunning but also highly functional.",
       "name": "Johnathan Doe"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "The Blackwing Codershop's team was a pleasure to work with. They were highly communicative throughout the project and were able to deliver a website that exceeded our expectations. Their team was highly skilled in WordPress development and was able to create a custom theme that perfectly aligned with our brand. We highly recommend their services.",
       "name": "John Doe"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "We were impressed with The Blackwing Codershop's ability to understand our business needs and deliver a solution that exceeded our expectations. Their team was highly skilled in web design and development and was able to create a custom solution that perfectly aligned with our goals. We highly recommend their services.",
       "name": "Johnathan Doe"
     }
   ],
@@ -153,8 +171,8 @@
   ],
   "Contact": {
     "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "phone": "+1 183 656 5534",
+    "email": "info@codershop.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
@@ -162,23 +180,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title":" Custom Web Design",
+      "text": "We offer personalized web design solutions tailored to your unique needs and vision, ensuring that your website stands out from the competition."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Responsive Development",
+      "text": "Our websites are designed with a mobile-first approach, ensuring that they look great and function seamlessly on all devices, from desktop to tablet to smartphone."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Search Engine Optimization",
+      "text": "We use industry-standard SEO techniques to optimize your website for search engines, improving your online visibility and helping you reach more potential customers."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Reliable Web Hosting",
+      "text": " Our reliable and secure web hosting ensures that your website is always up and running, with minimal downtime and maximum speed and performance."
     }
   ]
 }
