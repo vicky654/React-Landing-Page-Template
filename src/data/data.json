@@ -1,6 +1,6 @@
 {
   "Header": {
-    "title": "Transform Your Web Dreams into Reality with The Blackwing Codershop: Where Innovation Meets Imagination",
+    "title": "Transform Your Web Dreams into Reality with The Blackwing Codershop",
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
   },
   "About": {
@@ -119,33 +119,19 @@
     {
       "img": "img/testimonials/01.jpg",
       "text": "Working with The Blackwing Codershop was an excellent experience. Their team was highly professional, knowledgeable, and responsive. They created a custom solution that exceeded our expectations and helped take our business to the next level. We highly recommend their services.",
-      "name": "John Doe"
+      "name": "John Abrahm"
     },
     {
       "img": "img/testimonials/02.jpg",
       "text": "We were thoroughly impressed with The Blackwing Codershop's expertise and attention to detail. They created a beautiful and functional website that perfectly aligned with our brand identity and business needs. Their team was easy to work with and responsive to our needs throughout the project.",
-      "name": "Johnathan Doe"
+      "name": "Johnathan "
     },
     {
       "img": "img/testimonials/03.jpg",
       "text": "The Blackwing Codershop delivered outstanding results for our company. They were able to take our vision and turn it into a reality. Their team was highly skilled in web development and was able to provide valuable insights and recommendations throughout the project. We highly recommend their services.",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "We were blown away by The Blackwing Codershop's commitment to excellence and attention to detail. Their team was highly professional and responsive, making the entire project a smooth and seamless experience. They created a custom solution that was not only visually stunning but also highly functional.",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "The Blackwing Codershop's team was a pleasure to work with. They were highly communicative throughout the project and were able to deliver a website that exceeded our expectations. Their team was highly skilled in WordPress development and was able to create a custom theme that perfectly aligned with our brand. We highly recommend their services.",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "We were impressed with The Blackwing Codershop's ability to understand our business needs and deliver a solution that exceeded our expectations. Their team was highly skilled in web design and development and was able to create a custom solution that perfectly aligned with our goals. We highly recommend their services.",
-      "name": "Johnathan Doe"
+      "name": " Doe"
     }
+  
   ],
   "Team": [
     {
@@ -170,12 +156,10 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 183 656 5534",
-    "email": "info@codershop.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "521 CENTURY OAK CT LAKELAND, FL, 33813",
+    "phone": "+1 818-221-1255",
+    "email": "info@codershop.com"
+  
   },
   "Features": [
     {

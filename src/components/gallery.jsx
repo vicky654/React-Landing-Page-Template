@@ -7,10 +7,10 @@ export const Gallery = (props) => {
       <div className="container">
         <div className="section-title">
           <h2>Gallery</h2>
-          <p>
+          {/* <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
             dapibus leonec.
-          </p>
+          </p> */}
         </div>
         <div className="row">
           <div className="portfolio-items">
@@ -26,13 +26,8 @@ export const Gallery = (props) => {
                       smallImage={d.smallImage}
                     />
                     <h5> {d.name}</h5>
-                    <h5>{d.price}</h5>
-                    <a
-                  href="#features"
-                  className="btn btn-custom btn-lg page-scroll  btn-margin "
-                >
-                 ADD TO CART
-                </a>{" "}
+                    {/* <h5>{d.price}</h5> */}
+                  
                   </div>
                   
                 ))

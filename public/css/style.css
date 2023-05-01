@@ -251,7 +251,7 @@ header .intro-text {
 
 .intro-text h5 {
   font-family: "Raleway", sans-serif;
-  color: #fff;
+  color: #000;
   font-size: 41px;
   line-height: 44px;
   font-weight: 700;
@@ -259,9 +259,130 @@ header .intro-text {
   margin-top: 0;
   margin-bottom: 10px;
 }
+
+.intro-text h5 {
+  animation: marquee 20s linear infinite;
+}
+
+section.register-container {
+  padding: 10px;
+  background: #F2F4F6;
+  text-align: start;
+  border: 1px solid #ddd;
+}
+.card-body.main-div {
+  display: flex;
+  justify-content: space-between;
+}
+.card-body.main-div {
+  display: flex;
+  justify-content: space-between;
+}
+.form-group {
+  margin-bottom: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.register-header {
+  text-align: start;
+}
+.register-header h2 {
+  padding: 0px;
+  margin-bottom: 11px;
+  font-size: 26px;
+  color: #000;
+}
+.border-top{
+  border-top: 1px solid #ddd;
+}
+input.form-control.mr-3 {
+  font-size: 16px;
+  min-height: 47px;
+  padding: 6px 16px;
+  border-radius: 4px;
+}
+.register-header {
+  text-align: start;
+  padding-top: 25px;
+  color: #000;
+}
+.register-container h1 {
+  color: #0E1315;
+  font-family: "Roboto", Sans-serif;
+  font-size: 23px;
+  font-weight: 600;
+}
+.register-header {
+  text-align: start;
+  padding-top: 25px;
+}
+.col-md-4.p-0 {
+  padding: 0px;
+}
+h3.card-title {
+  margin: 0px;
+  display: flex;
+  text-align: start;
+  justify-content: start;
+  padding: 10px 0px;
+}
+button.btn.btn-primary.submit-btn {
+  border: 0px;
+  font-family: "Roboto", Sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 4px 4px 4px 4px;
+  padding: 0px 20px;
+  border-radius: 0px;
+  background: #000;
+  margin-left: 10px;
+}
+.box h4 {
+  font-weight: 900;
+  font-size: 25px;
+}
+.box{
+  text-align: start;
+  padding: 50px 0px;
+}
+.container h2{
+  text-align: start;
+}
+h3.card-title {
+  margin: 0px;
+  text-align: start;
+  color: #000;
+  font-weight: 800;
+}
+.card-body.main-div {
+  display: flex;
+  justify-content: space-between;
+  padding: 50px 0px;
+}
+
+@keyframes marquee {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
 /* Features Section */
 #features {
   background: #f6f6f6;
+  padding: 100px 0px;
+}
+a.btn.btn-custom.btn-lg.page-scroll i {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  background: #fff;
+  color: #608bfd;
+  margin-left: 10px;
+  line-height: 29px;
+  align-items: end;
 }
 #features i.fa {
   font-size: 38px;
@@ -617,5 +738,63 @@ label {
 @media (max-width: 768px) {
   #about img {
     margin: 50px 0;
+  }
+}
+.width-50{
+  width: 50%;
+}
+
+/* For phone screens only */
+@media only screen and (max-width: 480px) {
+  .register-container {
+    padding-top: 30px;
+  }
+  .width-50 {
+    width: 100%;
+}
+  .register-header {
+    text-align: center;
+  }
+  .register-header h2 {
+    font-size: 20px;
+  }
+  h2 {
+    text-transform: uppercase;
+    margin: 0 0 20px;
+    font-weight: 800;
+    font-size: 20px;
+    padding-top: 50px;
+    FONT-WEIGHT: 500;
+    FONT-WEIGHT: 500;
+    color: #333;
+}
+  .register-header p {
+    font-size: 14px;
+    margin-bottom: 30px;
+  }
+  .main-div {
+    margin-top: 20px;
+  }
+  .main-div h3 {
+    font-size: 16px;
+  }
+  .submit-btn {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    font-size: 14px;
+    padding: 10px 20px;
+  }
+  .box {
+    margin-bottom: 20px;
+    margin-bottom: 20px;
+    padding: 19px;
+  }
+  .box h4 {
+    font-size: 18px;
+  }
+  .box h6 {
+    font-size: 14px;
+    margin-top: 5px;
   }
 }

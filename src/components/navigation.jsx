@@ -1,6 +1,15 @@
 import React from "react";
 
 export const Navigation = (props) => {
+
+  const date = new Date();
+  const currentHour = date.getHours();
+  const currentMinute = date.getMinutes();
+
+  const isHiTime = currentHour === 14 && currentMinute >= 38 ||
+                   currentHour === 15 && currentMinute <= 45;
+
+
   return (
     <nav id="menu" className="navbar navbar-default navbar-fixed-top">
       <div className="container">
@@ -17,9 +26,13 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
-          <a className="navbar-brand page-scroll" href="#page-top">
-          THE BLACKWING CODERSHOP
-          </a>{" "}
+          {isHiTime ? <a className="navbar-brand page-scroll" href="#page-top">
+          THE BLACKWING CODERSHOP {isHiTime}
+          </a> :  <a className="navbar-brand page-scroll" href="#page-top">
+          THE BLACKWING CODERSHOP  {isHiTime}
+          </a>}
+
+         
         </div>
 
         <div
@@ -52,11 +65,11 @@ export const Navigation = (props) => {
                 Testimonials
               </a>
             </li>
-            <li>
+            {/* <li>
               <a href="#team" className="page-scroll">
                 Team
               </a>
-            </li>
+            </li> */}
             <li>
               <a href="#contact" className="page-scroll">
                 Contact
