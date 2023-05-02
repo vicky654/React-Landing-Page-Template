@@ -346,9 +346,9 @@ button.btn.btn-primary.submit-btn {
   text-align: start;
   padding: 50px 0px;
 }
-.container h2{
+/* .container h2{
   text-align: start;
-}
+} */
 h3.card-title {
   margin: 0px;
   text-align: start;
@@ -758,6 +758,13 @@ label {
   .register-header h2 {
     font-size: 20px;
   }
+  #menu a.navbar-brand {
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #333;
+    text-transform: uppercase;
+}
   h2 {
     text-transform: uppercase;
     margin: 0 0 20px;
