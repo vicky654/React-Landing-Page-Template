@@ -12,6 +12,8 @@ import { Register } from "./components/register"; // import the Register compone
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
 import "./App.css";
+import { Disclaimer } from "./components/disclamer";
+
 
 export const scroll = new SmoothScroll('a[href*="#"]', {
   speed: 1000,
@@ -43,10 +45,10 @@ const App = () => {
       {!isRegisterPath && <Gallery data={landingPageData.Gallery} />}
       {/* conditionally render the Testimonials component */}
       {!isRegisterPath && <Testimonials data={landingPageData.Testimonials} />}
-      {/* conditionally render the Team component */}
-      {/* {!isRegisterPath && <Team data={landingPageData.Team} />} */}
-      {/* conditionally render the Contact component */}
+   
       {!isRegisterPath && <Contact data={landingPageData.Contact} />}
+      {!isRegisterPath && <Disclaimer data={landingPageData.About1} />}
+     
       {/* conditionally render the Register component */}
       {isRegisterPath && <Register />}
     </div>

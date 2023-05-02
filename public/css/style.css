@@ -349,6 +349,9 @@ button.btn.btn-primary.submit-btn {
 /* .container h2{
   text-align: start;
 } */
+.text-start {
+  text-align: start;
+}
 h3.card-title {
   margin: 0px;
   text-align: start;

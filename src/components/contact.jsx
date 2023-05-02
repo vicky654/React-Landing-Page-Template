@@ -146,7 +146,7 @@ export const Contact = (props) => {
           </div> */}
         </div>
       </div>
-      <div id="footer">
+      {/* <div id="footer">
         <div className="container text-center">
           <p>
             &copy; 2023 THE BLACKWING CODERSHOP
@@ -154,7 +154,7 @@ FEATURES.
            
           </p>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 };

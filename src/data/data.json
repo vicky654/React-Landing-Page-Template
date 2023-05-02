@@ -161,6 +161,25 @@
     "email": "info@codershop.com"
   
   },
+  "About1": {
+    "title":"Disclaimer",
+    "paragraph": "The information provided on blackwing.shop is for general informational purposes only. We make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability with respect to the website or the information, products, services, or related graphics contained on the website. We are an independent service provider & do not affiliate with any brand or trademarks.",
+    "title1":"Privacy Policy",
+    "paragraph1": "At Blackwing.shop, we are committed to protecting the privacy of our visitors and customers. This Privacy Policy explains how we collect, use, disclose, and protect your personal information when you visit our website or purchase products from us.",
+     "title2":"Information We Collect:",
+    "paragraph2": "When you visit our website, we may collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the website, we may collect information about the individual web pages or products that you view, what websites or search terms referred you to the website, and information about how you interact with the website.",
+    "title3":"Use of Your Information:",
+    "paragraph3": "We use the information we collect to fulfill your orders, to communicate with you about your orders and our products, and to improve our website and customer experience. We may also use your information to personalize our communications with you and to send you marketing or promotional materials.",
+    "title4":"Security of Your Information:",
+    "paragraph5": "We take the security of your personal information seriously and take reasonable steps to protect it from unauthorized access, disclosure, or destruction. However, no method of transmission over the internet or electronic storage is 100% secure, and we cannot guarantee the absolute security of your information.",
+     "title6":"Cookies:",
+    "paragraph6": "We use cookies to collect information about how our website is used and to improve your experience. You may choose to disable cookies through your web browser settings, but this may affect the functionality of our website.",
+    "title7":"Changes to Privacy Policy:",
+    "paragraph7": "We may update this Privacy Policy from time to time in order to reflect changes to our practices or for other operational, legal, or regulatory reasons.",
+    "title8":"Contact Us:",
+    "paragraph8": "If you have any questions or concerns about our Privacy Policy or our practices, please contact us at support@blackwing.shop."
+   
+  },
   "Features": [
     {
       "icon": "fa fa-comments-o",
@@ -183,4 +202,6 @@
       "text": " Our reliable and secure web hosting ensures that your website is always up and running, with minimal downtime and maximum speed and performance."
     }
   ]
+ 
+  
 }
